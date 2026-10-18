@@ -1,6 +1,6 @@
 # Agent workflow
 
-How to run, test and verify this repo. Words for things are in [`CONTEXT.md`](./CONTEXT.md).
+How to run, test and verify this repo. Words for things are in [`GLOSSARY.md`](./GLOSSARY.md).
 
 > **Status:** a merge to `main` deploys production (https://onova-za-imotite.vercel.app). There is no sign-in yet:
 > data belongs to a **workspace**, a random key the browser keeps. Update this file in the same PR that changes a
